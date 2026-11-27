@@ -19,7 +19,7 @@ El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso
 - Indicadores animados de habilidades técnicas.
 - Tarjetas de proyectos con etiquetas de tecnologías y espacios para enlaces.
 - Formulario de contacto con validación HTML y simulación de envío.
-- Botón para volver al inicio y actualización automática del año en el pie de página.
+- Botón vueltas al inicio y actualización automática del año en el pie de página.
 
 ## Tecnologías utilizadas
 
@@ -51,13 +51,13 @@ jesus/
 
 ### Instalación
 
-1. Clona el repositorio:
+1. Haz la clonación repositorio:
 
    ```bash
    git clone https://github.com/JesusArcis/jesus.git
    ```
 
-2. Accede al directorio:
+2. Accederás al directorio:
 
    ```bash
    cd jesus
